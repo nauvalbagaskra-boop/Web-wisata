@@ -197,6 +197,6 @@
             <p>&copy; 2025 Wisata Nusantara | All Rights Reserved</p>
             
         </footer>   
-        <script src="Latihan.js"></script>
+        
 </body>
 </html>
